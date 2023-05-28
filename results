@@ -1,0 +1,3 @@
+Quicksort time: 0.011007070541381836 seconds
+Countingsort time: 0.00099945068359375 seconds
+Heapsort time: 0.061452388763427734 second
